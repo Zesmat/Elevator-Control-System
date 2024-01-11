@@ -119,8 +119,7 @@ To use these VHDL modules, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   https://github.com/Zesmat/Elevator-Control-System
 2. Open the project in your preferred VHDL development environment(Prefered to use ISE Xlinix).
 
 3. Compile and synthesize the design.

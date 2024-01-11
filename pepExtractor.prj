@@ -1,7 +1,0 @@
-work	"ElevatorEncoder.vhd"
-work	"Elevator_Control.vhd"
-work	"FloorDisplay.vhd"
-work	"Timer.vhd"
-work	"clock_divider.vhd"
-work	"components.vhd"
-work	"up_counter_4_bit.vhd"

@@ -1,5 +1,0 @@
-set -tmpdir "Z:/Elevator/xst/projnav.tmp"
-set -xsthdpdir "Z:/Elevator/xst"
-elaborate
--ifn binary_to_bcd_converter.prj
--ifmt mixed

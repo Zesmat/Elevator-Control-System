@@ -1,5 +1,0 @@
-set -tmpdir "Z:/ElevatorV5/Elevator/xst/projnav.tmp"
-set -xsthdpdir "Z:/ElevatorV5/Elevator/xst"
-elaborate
--ifn up_counter_4_bit.prj
--ifmt mixed

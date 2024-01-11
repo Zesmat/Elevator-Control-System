@@ -1,5 +1,0 @@
-set -tmpdir "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/xst/projnav.tmp"
-set -xsthdpdir "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/xst"
-elaborate
--ifn Elevator_Control.prj
--ifmt mixed

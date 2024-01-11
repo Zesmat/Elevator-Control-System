@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/Elevator/clock_divider_test.xst" -ofn "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/Elevator/clock_divider_test.syr" 

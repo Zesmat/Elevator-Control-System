@@ -1,0 +1,2 @@
+vhdl isim_temp "enc_16_4_test.vhd"
+vhdl isim_temp "FloorDisplay_test.vhd"

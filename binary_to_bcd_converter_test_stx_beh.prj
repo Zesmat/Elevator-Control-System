@@ -1,0 +1,2 @@
+vhdl isim_temp "binary_to_bcd_converter.vhd"
+vhdl isim_temp "binary_to_bcd_converter_test.vhd"

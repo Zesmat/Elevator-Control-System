@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/ElevatorV5/Elevator/Elevator_Control_Test_isim_beh.exe" -prj "Z:/ElevatorV5/Elevator/Elevator_Control_Test_beh.prj" "work.Elevator_Control_Test" 

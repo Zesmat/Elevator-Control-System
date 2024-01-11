@@ -1,0 +1,51 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/clock_divider.vhd" in Library work.
+Architecture behavioral of Entity clock_divider is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/up_counter_4_bit.vhd" in Library work.
+Architecture behavioral of Entity up_counter_4_bit is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/binary_to_bcd_converter.vhd" in Library work.
+Architecture behavioral of Entity binary_to_bcd_converter is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/BCD_Decoder_7Seg.vhd" in Library work.
+Architecture behavioral of Entity bcd_decoder_7seg is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/FloorDisplay.vhd" in Library work.
+Architecture behavioral of Entity floordisplay is up to date.
+Architecture binary_to_7seg of Entity floordisplay is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/Timer.vhd" in Library work.
+Architecture behavioral of Entity timer is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/ElevatorEncoder.vhd" in Library work.
+Architecture encoder of Entity enc_16_4 is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/Elevator_Control.vhd" in Library work.
+Architecture behavioral of Entity elevator_control is up to date.
+Compiling vhdl file "D:/AAST/5th semester/Digital Systems Design/Xilinx VHDL projects/ElevatorV5/Elevator/components.vhd" in Library work.
+Architecture components of Entity components is up to date.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.18 secs
+ 
+--> 
+
+Total memory usage is 4491640 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

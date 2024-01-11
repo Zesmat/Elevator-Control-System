@@ -1,0 +1,4 @@
+vhdl isim_temp "up_counter_4_bit.vhd"
+vhdl isim_temp "clock_divider.vhd"
+vhdl isim_temp "Timer.vhd"
+vhdl isim_temp "timer_test.vhd"

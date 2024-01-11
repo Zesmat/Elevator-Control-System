@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Z:/ElevatorV5/Elevator/Elevator_Control_Test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="components" />
+            <top_module name="elevator_control_test" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/elevator_control_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/keypad" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">keypad[15:0]</obj_property>
+      <obj_property name="ObjectShortName">keypad[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/power" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">power</obj_property>
+      <obj_property name="ObjectShortName">power</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/floor_detected" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">floor_detected</obj_property>
+      <obj_property name="ObjectShortName">floor_detected</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/open_btn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">open_btn</obj_property>
+      <obj_property name="ObjectShortName">open_btn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/close_btn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">close_btn</obj_property>
+      <obj_property name="ObjectShortName">close_btn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/weight" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">weight</obj_property>
+      <obj_property name="ObjectShortName">weight</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/person_detected" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">person_detected</obj_property>
+      <obj_property name="ObjectShortName">person_detected</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/door_open" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">door_open</obj_property>
+      <obj_property name="ObjectShortName">door_open</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/display1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">display1[6:0]</obj_property>
+      <obj_property name="ObjectShortName">display1[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/display2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">display2[6:0]</obj_property>
+      <obj_property name="ObjectShortName">display2[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/uut/current_floor" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">current_floor[3:0]</obj_property>
+      <obj_property name="ObjectShortName">current_floor[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="label">current_floor[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/elevator_control_test/uut/p_s" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">p_s</obj_property>
+      <obj_property name="ObjectShortName">p_s</obj_property>
+   </wvobject>
+</wave_config>

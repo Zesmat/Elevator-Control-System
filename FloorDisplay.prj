@@ -1,0 +1,4 @@
+vhdl work "components.vhd"
+vhdl work "binary_to_bcd_converter.vhd"
+vhdl work "BCD_Decoder_7Seg.vhd"
+vhdl work "FloorDisplay.vhd"

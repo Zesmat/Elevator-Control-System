@@ -1,0 +1,5 @@
+vhdl isim_temp "components.vhd"
+vhdl isim_temp "binary_to_bcd_converter.vhd"
+vhdl isim_temp "BCD_Decoder_7Seg.vhd"
+vhdl isim_temp "FloorDisplay.vhd"
+vhdl isim_temp "FloorDisplay_test.vhd"

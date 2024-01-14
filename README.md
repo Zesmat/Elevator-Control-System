@@ -52,7 +52,7 @@ Traditional elevator control systems often lack flexibility and extensibility, m
 ### Up Counter 4-bit (up_counter_4_bit)
 - Behavioral VHDL implementation of a 4-bit up counter.
 - The counter increments on each rising clock edge, with optional clearing on a dedicated signal.
-- 
+
   ![counter](https://github.com/SuzyAdel/Elevator-Control-System/assets/128175020/f9f86375-d0ad-4558-93bb-1b7b2a35edec)
 
 - **Ports:**

@@ -1,6 +1,7 @@
 # Elevator Control System
 
 This repository contains VHDL code for a comprehensive Elevator Control System. The system is modularized into various VHDL modules, each serving a specific functionality.
+![elevator](https://github.com/SuzyAdel/Elevator-Control-System/assets/128175020/08c6e36d-9467-4e1a-82fa-e9eeeda1cbbc)
 
 ## Table of Contents
 - [Purpose](#purpose)
